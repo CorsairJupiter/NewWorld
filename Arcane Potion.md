@@ -22,7 +22,7 @@
   <summary>Weak Helath Potion</summary> 
   
 + 1 Weak Alkahest 
-+ Bulrush Cob 
++ 1 Medical Reagent
 
 </details>
 
@@ -30,7 +30,7 @@
   <summary>Common Health Potion</summary> 
    
 + 1 Common Alkahest 
-+ 1 Bulrush Cob 
++ 1 Medical Reagent
   
 </details>
 
@@ -40,7 +40,7 @@
   <summary>Weak Mana Potion</summary>
 
 + 1 Weak Alkahest 
-+ 1 Briar Bud  
++ 1 Magical Reagent 
   
 </details>
 
@@ -48,7 +48,18 @@
   <summary>Common Mana Potion</summary> 
   
 + 1 Common Alkahest 
-+ 1 Briar Bud  
++ 1 Magical Regeant 
+
+</details>
+
+## Regeneration Potions 
+
+<details> 
+  <summary>Common Regeneration Potion</sumamry> 
+
++ 1 Common Alkahest 
++ 1 Medical Regeant 
++ 1 Life Reagent
 
 </details>
 
@@ -57,8 +68,8 @@
 <details> 
   <summary>Common Blight Tincture</summary>
 
-+ 1 Petalcap 
-+ 1 Twistcap Spiral 
++ 1 Tier 2 Protective Reagent
++ 1 Air Reagent
 + 1 Water 
 
 </details> 
@@ -68,7 +79,7 @@
 <details> 
   <summary>Common Corruption Tinctures</summary>
 
-+ 1 Petalcap 
++ 1 Tier 2 Protective Reagent 
 + 1 Water Mote 
 + 1 Water
 

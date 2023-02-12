@@ -55,7 +55,7 @@
 ## Regeneration Potions 
 
 <details> 
-  <summary>Common Regeneration Potion</sumamry> 
+  <summary>Common Regeneration Potion</summary> 
 
 + 1 Common Alkahest 
 + 1 Medical Regeant 
